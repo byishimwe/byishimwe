@@ -35,9 +35,6 @@ Java | JavaScript (ES6+) | HTML5 | CSS3 | Git | VS Code | Postman | Maven
 💰 **[CashFlow](https://github.com/ISHIMWE-Prince-Arnaud/CashFlow)**  
 > 💼 A mobile expense tracker (React Native/Expo + Express + PostgreSQL) with authentication and real-time updates.  
 
-📱 **[MyNativeApp](#)** *(example placeholder for future native apps)*  
-> 📲 Demonstrating native Android/iOS development using Java/Kotlin/Swift with smooth UI & performance optimization.  
-
 🎬 **[Movie-Mosaic](https://github.com/ISHIMWE-Prince-Arnaud/Movie-Mosaic)**  
 > 🍿 Movie search & discovery platform built with JavaScript and engaging UI.  
 
