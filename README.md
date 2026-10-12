@@ -1,98 +1,86 @@
-<!-- Profile README for ISHIMWE Prince Arnaud -->
+<div align="center">
 
-<h1>👋 Hi, I'm ISHIMWE Prince Arnaud</h1>
-<h3>Full-Stack Developer | Java Developer | Mobile App Developer | Tech Enthusiast</h3>
+<sub>PRINCE ARNAUD ISHIMWE &nbsp; / &nbsp; DESIGNER & FRONTEND DEVELOPER &nbsp; / &nbsp; RWANDA</sub>
 
----
+# Design-led frontend development.
 
-🎓 *Software Engineering Student | 💡 Passionate about merging creativity with code*  
-🏆 *Open to freelance or collaboration opportunities — feel free to reach out!*
+I design and build thoughtful digital experiences—bringing together clear visual direction, purposeful interaction, and carefully engineered interfaces.
 
----
+**[Explore my portfolio](https://princeishimwe.vercel.app)** &nbsp;·&nbsp; **[Discuss a project](mailto:princeishimwe754@gmail.com?subject=Website%20project%20enquiry)**
 
-### 👨‍💻 About Me
-I’m a passionate developer building modern, efficient, and user-focused applications.  
-Currently working on web, mobile & Java projects that deliver real value and solve real problems.
+</div>
 
 ---
 
-### 🧰 Tech Stack
-**Frontend (Web & Mobile):**  
-React.js | Tailwind CSS | DaisyUI | Framer Motion | Axios | Zustand | React-Hook-Form | React Native | Expo | Native Development  
+### Selected work
 
-**Backend & Databases:**  
-Node.js | Express.js | MongoDB | Mongoose | PostgreSQL | Socket.io  
+A few projects that reflect how I approach design, usability, and engineering. Café Bliss and IMIZI are **independent fictional business concepts**, not commissioned client work.
 
-**Languages & Tools:**  
-Java | JavaScript (ES6+) | HTML5 | CSS3 | Git | VS Code | Postman | Maven  
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://cafe-bliss-rw.vercel.app">
+        <img src="https://raw.githubusercontent.com/byishimwe/portfolio/main/public/cafe-bliss.webp" alt="Café Bliss website shown on a laptop in a sunlit café" width="100%">
+      </a>
+      <br>
+      <strong>01 / Café Bliss</strong><br>
+      <sub>HOSPITALITY · WEBSITE CONCEPT</sub>
+      <p>An inviting café website centered on editorial typography, menu discovery, and an accessible demonstration reservation flow.</p>
+      <a href="https://cafe-bliss-rw.vercel.app">Live website ↗</a> &nbsp;·&nbsp; <a href="https://github.com/byishimwe/cafe-bliss">Source ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://imizi-training-club.vercel.app">
+        <img src="https://raw.githubusercontent.com/byishimwe/portfolio/main/public/imizi.webp" alt="IMIZI Training Club website presented on a monitor in a gym" width="100%">
+      </a>
+      <br>
+      <strong>02 / IMIZI Training Club</strong><br>
+      <sub>FITNESS · MULTI-PAGE WEBSITE CONCEPT</sub>
+      <p>A bold, responsive website bringing together a distinct visual identity, class information, membership options, and intuitive navigation.</p>
+      <a href="https://imizi-training-club.vercel.app">Live website ↗</a> &nbsp;·&nbsp; <a href="https://github.com/byishimwe/imizi-training-club">Source ↗</a>
+    </td>
+  </tr>
+</table>
 
----
+<table>
+  <tr>
+    <td width="48%" valign="middle">
+      <a href="https://joinquad.vercel.app">
+        <img src="https://raw.githubusercontent.com/byishimwe/portfolio/main/public/quad.webp" alt="Quad student community application with social and communication interfaces" width="100%">
+      </a>
+    </td>
+    <td valign="middle">
+      <strong>03 / Quad</strong><br>
+      <sub>WEB APPLICATION · FULL-STACK ENGINEERING</sub>
+      <p>A student community application with posts, polls, profiles, chat, and real-time notifications—built with React, TypeScript, Express, MongoDB, and Socket.IO.</p>
+      <a href="https://joinquad.vercel.app">Live application ↗</a> &nbsp;·&nbsp; <a href="https://github.com/byishimwe/quad">Source ↗</a>
+    </td>
+  </tr>
+</table>
 
-### 🚀 Featured Projects
-💡 **[Quad](https://github.com/ISHIMWE-Prince-Arnaud/Quad)**  
-> 🎓 A student social platform (MERN stack) connecting learners and sharing resources.  
+### How I work
 
-💰 **[CashFlow](https://github.com/ISHIMWE-Prince-Arnaud/CashFlow)**  
-> 💼 A mobile expense tracker (React Native/Expo + Express + PostgreSQL) with authentication and real-time updates.  
+I care about **visual hierarchy, typography, motion, responsiveness, accessibility, and performance**. The goal is not simply to make a website look polished, but to make it coherent, easy to use, and memorable.
 
-🎬 **[Movie-Mosaic](https://github.com/ISHIMWE-Prince-Arnaud/Movie-Mosaic)**  
-> 🍿 Movie search & discovery platform built with JavaScript and engaging UI.  
+**Core work** &nbsp; React · TypeScript · JavaScript · HTML/CSS · Tailwind CSS · GSAP · UI/UX design
 
-📚 **[Bookly](https://github.com/ISHIMWE-Prince-Arnaud/Bookly)**  
-> 📖 Full-stack app for managing books & reading lists using React, Node.js & MongoDB.  
+**Creative direction** &nbsp; Three.js · React Three Fiber · GLSL shaders · Blender
 
-💬 **[EchoChat](https://github.com/ISHIMWE-Prince-Arnaud/EchoChat)**  
-> 💻 Java console chat app demonstrating OOP, threading & networking fundamentals.  
+I'm continuing to develop my creative engineering practice, especially in cinematic motion, interactive 3D, and expressive web experiences.
 
----
+### Currently
 
-### 🧠 Learning & Interests
-- 🚀 Deepening full-stack expertise (React, Node.js, MongoDB)  
-- ☕ Advancing Java backend development & OOP design  
-- 📱 Building mobile apps with React Native and native development  
-- 🧩 Exploring motion graphics & UI animations with Framer Motion  
-- 🌱 Learning DevOps basics (Docker, CI/CD, cloud deployment)  
-
----
-
-### ⚡ Currently
-- Building **Quad**, a social learning network for students  
-- Expanding **mobile app development skills** through React Native & native projects  
-- Collaborating on open-source web tools and educational platforms  
-
----
-
-### 📊 GitHub Stats
-<p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=ISHIMWE-Prince-Arnaud&show_icons=true&theme=tokyonight&hide_border=true" height="165" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ISHIMWE-Prince-Arnaud&layout=compact&theme=tokyonight&hide_border=true" height="165" />  
-</p>
-
-<p align="center">  
-  <img src="https://streak-stats.demolab.com?user=ISHIMWE-Prince-Arnaud&theme=tokyonight&hide_border=true" height="165" />  
-</p>
-
----
-
-### 🕸️ Contribution Graph
-<p align="center">  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ISHIMWE-Prince-Arnaud&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />  
-</p>
+- Building and refining website experiences for businesses and digital products.
+- Deepening my work with motion design, 3D interactions, and creative frontend systems.
+- Available for select **website design, development, and redesign** projects.
 
 ---
 
-### 📫 Contact / Links
-- 🌐 **Portfolio:** [ishimwe-prince-arnaud.netlify.app](https://ishimwe-prince-arnaud.netlify.app)  
-- ✉️ **Email:** princeishimwe754@gmail.com  
+<div align="center">
 
----
+**Have a website or digital experience in mind?**
 
-### 🎯 Fun / Personality
-- 💬 I enjoy building tools that make daily and student life easier  
-- 🎨 Outside coding, I explore UI design & motion graphics  
-- ⚡ Fun fact: I believe code should tell a story — clean, readable, and creative  
-- 🧩 Motto: *“Code it. Test it. Ship it. Repeat.”*
+[Portfolio](https://princeishimwe.vercel.app) &nbsp;·&nbsp; [Email](mailto:princeishimwe754@gmail.com?subject=Website%20project%20enquiry) &nbsp;·&nbsp; [WhatsApp](https://wa.me/250795198946)
 
-<p align="center">  
-  <img src="https://komarev.com/ghpvc/?username=ISHIMWE-Prince-Arnaud&style=for-the-badge&color=blue" alt="Profile Views" />  
-</p>
+<sub>Based in Rwanda · Working on the web</sub>
+
+</div>
