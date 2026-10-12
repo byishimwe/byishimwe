@@ -6,7 +6,7 @@
 
 I bring together thoughtful design, purposeful motion, and frontend engineering to create expressive, intuitive experiences for the web.
 
-**[View my portfolio](https://princeishimwe.vercel.app)** &nbsp;·&nbsp; **[Let's work together](mailto:princeishimwe754@gmail.com?subject=Website%20project%20enquiry)**
+**[View my portfolio](https://princeishimwe.vercel.app)** &nbsp;·&nbsp; **[Discuss a project via Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=princeishimwe754%40gmail.com&su=Website%20project%20enquiry)**
 
 </div>
 
@@ -77,6 +77,8 @@ My current creative focus is cinematic motion, interactive 3D, and immersive exp
 
 I'm available for select website design, development, and redesign projects.
 
-[Portfolio](https://princeishimwe.vercel.app) &nbsp;·&nbsp; [Email](mailto:princeishimwe754@gmail.com?subject=Website%20project%20enquiry) &nbsp;·&nbsp; [WhatsApp](https://wa.me/250795198946)
+[Portfolio](https://princeishimwe.vercel.app) &nbsp;·&nbsp; [Compose in Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=princeishimwe754%40gmail.com&su=Website%20project%20enquiry) &nbsp;·&nbsp; [WhatsApp](https://wa.me/250795198946)
+
+Prefer another email service? **princeishimwe754@gmail.com**
 
 </div>
